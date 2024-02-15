@@ -1,0 +1,23 @@
+{
+  "name": "@bhavishya10/ab-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavishyasharma10/ab-test.git"
+  },
+  "author": "Bhavishya Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavishyasharma10/ab-test/issues"
+  },
+  "homepage": "https://github.com/bhavishyasharma10/ab-test#readme",
+  "dependencies": {
+    "blueimp-md5": "^2.19.0",
+    "lodash.isfinite": "^3.3.2"
+  }
+}
