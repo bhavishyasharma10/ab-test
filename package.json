@@ -18,6 +18,7 @@
   "homepage": "https://github.com/bhavishyasharma10/ab-test#readme",
   "dependencies": {
     "blueimp-md5": "^2.19.0",
-    "lodash.isfinite": "^3.3.2"
+    "lodash.isfinite": "^3.3.2",
+    "murmurhash": "^2.0.1"
   }
 }
